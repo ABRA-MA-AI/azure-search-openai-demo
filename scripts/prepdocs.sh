@@ -10,7 +10,7 @@ if [ $# -gt 0 ]; then
 fi
 
 # Your storage account details
-STORAGE_ACCOUNT="avivistaistorage"
+STORAGE_ACCOUNT="avivistaiblob"
 CONTAINER_NAME="content"
 RESOURCE_GROUP="rg-AvivistAI"
 
