@@ -11,7 +11,7 @@ fi
 
 # Your storage account details
 STORAGE_ACCOUNT="avivistaiblob"
-CONTAINER_NAME="content"
+CONTAINER_NAME="main"
 RESOURCE_GROUP="rg-AvivistAI"
 
 echo "Processing documents from Storage Account: $STORAGE_ACCOUNT"
