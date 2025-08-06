@@ -11,7 +11,7 @@ fi
 
 # Set your storage account details
 STORAGE_ACCOUNT="avivistaiblob"
-CONTAINER_NAME="content"  # Change this if your container has a different name
+CONTAINER_NAME="main"  # Change this if your container has a different name
 
 echo "Processing documents from Storage Account: $STORAGE_ACCOUNT"
 echo "Container: $CONTAINER_NAME"
